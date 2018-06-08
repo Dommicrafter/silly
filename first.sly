@@ -3,10 +3,10 @@ funktion start()
 > > drucke("blub")
 
 funktion liste gerade(zahl max)
-> zahl c = 0
+> zahl c = -1
 > liste outs = neue liste(zahl)
 > während(c < max)
+> > c = c+1
 > > wenn(c % 2 == 0)
 > > > outs.mehr(c)
-> > c = c+1
 > gebe outs
