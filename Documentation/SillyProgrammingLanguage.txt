@@ -1,0 +1,31 @@
+﻿SILLY
+
+
+
+
+
+
+* klärung der syntax:
+   * Idee Dominik: 
+        Klasse SS[a][b][c][d]
+        >funktion start()
+        >>drucke(“Hallo Welt!”)
+        >>Zeichenfolge blub = “”
+        >>wenn(blub != “”)
+        >>>drucke(blub)
+        
+* Tokens festlegen
+   * funktion
+   * Klasse
+   * neu/neuer/neue/neues[e][f][g] (synonyme für angenehmeres Lesen (z.B. = neue Liste() ))
+* Objektorientiert (bspw. Objekt o = neues Objekt(<value>...)) 
+
+
+[a]Ich würde nicht wie bei Java alles in eine Klasse haun. Wir sollten lieber wie bei jeder anderen Sprache die Datei einfach vollständig ausführen lassen und dann Klassen nur bei bedarf für Objekte erstellen
+[b]Quasi wie bei Javascript?
+[c]Ja aber auch python, batch und eig so ziemlich jeder anderen Sprache. Ich glaube das gesamte Script immer in eine Klasse zu packen ist nur bei Java so
+[d]Achso okay ja klingt gut ^^
+[e]Mir fällt gerade auf Deutsch für ne Programmiersprache ist relativ ungünstig was Prädikate angeht 😂
+[f]Ja, aber ich find die Idee trotzdem noch gut. Ist sicher nicht schwer, das zu implementieren.
+[g]Ja ich ja auch 😅
+meinst du ?
